@@ -5,7 +5,9 @@ import Stopwatch from './components/stopwatch/stopwatch.jsx';
 
 function App() {
   return (
-    <Stopwatch />
+    <div class="app">
+      <Stopwatch /> 
+    </div>
   );
 }
 
