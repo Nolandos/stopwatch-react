@@ -1,10 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.scss';
+
+import Stopwatch from './components/stopwatch/stopwatch.jsx';
 
 function App() {
   return (
-    <h1>Hello !</h1>
+    <Stopwatch />
   );
 }
 
