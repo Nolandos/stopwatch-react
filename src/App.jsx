@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.scss';
 
-import Stopwatch from './components/stopwatch/stopwatch.jsx';
+import Stopwatch from './components/Stopwatch/Stopwatch.jsx';
 
 function App() {
   return (

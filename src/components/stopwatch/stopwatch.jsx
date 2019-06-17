@@ -1,5 +1,5 @@
 import React from 'react';
-import './stopwatch.scss';
+import './Stopwatch.scss';
 
 import ScoreList from '../ScoreList/ScoreList.jsx';
 
